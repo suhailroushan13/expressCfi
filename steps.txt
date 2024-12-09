@@ -1,0 +1,12 @@
+// Steps to Setup Express JS
+1. Make sure you have Nodejs and npm install
+2. create a repo of your project 
+3. git clone ssh-url
+4. cd repoName
+5. mkdir server && cd server
+6. npm init -y or npm init 
+7. add "type":"module"
+8. touch app.js .gitignore
+9. add node_modules in .gitignore
+10. Install express (npm install express)
+
