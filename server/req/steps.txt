@@ -1,0 +1,14 @@
+// Request Methods 
+
+1.req.body : ==> we use this Request method to accept data from client 
+to use req.body we need to write down a line on top 
+express.json()  // 
+
+
+// HTTP Methods 
+
+Get : enables you to retrieve data from server
+Post: enables you to add data to an existing file or resource in a server
+Put:  lets you replace an existing file or resource in a server
+Delete: lets you delete data from server
+Patch:  For partial update
